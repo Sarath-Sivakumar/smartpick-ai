@@ -1,0 +1,47 @@
+[
+  {
+    "name": "iQOO Neo 10",
+    "price": 32000,
+    "camera": "Good",
+    "battery": "Excellent",
+    "gaming": "Excellent",
+    "display": "AMOLED 144Hz",
+    "processor": "Snapdragon 8 Gen 2"
+  },
+  {
+    "name": "Nothing Phone 3a",
+    "price": 28000,
+    "camera": "Very Good",
+    "battery": "Good",
+    "gaming": "Good",
+    "display": "AMOLED 120Hz",
+    "processor": "Snapdragon 7+ Gen 3"
+  },
+  {
+    "name": "OnePlus Nord 5",
+    "price": 34000,
+    "camera": "Very Good",
+    "battery": "Very Good",
+    "gaming": "Very Good",
+    "display": "AMOLED 120Hz",
+    "processor": "Dimensity 9300"
+  },
+  {
+    "name": "Poco F7",
+    "price": 30000,
+    "camera": "Average",
+    "battery": "Excellent",
+    "gaming": "Excellent",
+    "display": "AMOLED 120Hz",
+    "processor": "Snapdragon 8s Gen 3"
+  },
+  {
+    "name": "Samsung Galaxy A56",
+    "price": 36000,
+    "camera": "Excellent",
+    "battery": "Good",
+    "gaming": "Moderate",
+    "display": "Super AMOLED",
+    "processor": "Exynos 1580"
+  }
+]

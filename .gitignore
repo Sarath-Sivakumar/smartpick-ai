@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FastAPI
+*.db
+
+# AI / ML Models & Caches
+.cache/
+models/
+hf_cache/
+
+# Sentence Transformers
+sentence_transformers/
+
+# FAISS Indexes
+*.faiss
+*.index
+
+# Local Data (optional)
+data/*.csv
+data/*.xlsx
+
+# Mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Pyright
+.pyright/
+
+# Coverage Reports
+coverage.xml
