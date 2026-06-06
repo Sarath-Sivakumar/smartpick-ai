@@ -40,7 +40,6 @@ htmlcov/
 
 # AI / ML Models & Caches
 .cache/
-models/
 hf_cache/
 
 # Sentence Transformers
